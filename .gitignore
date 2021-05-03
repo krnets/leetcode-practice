@@ -111,3 +111,12 @@ __pycache__/
 
 # VS Code files
 .vscode/
+
+# Visual Studio 2019 files and folders
+.vs/
+.idea/
+bin/
+obj/
+*.sln
+*.DotSettings.user
+
